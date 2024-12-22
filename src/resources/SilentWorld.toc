@@ -1,0 +1,16 @@
+## Interface: 100105
+## Title: SilentWorld
+## Notes: Disables the Auction House, trading, Guild Bank, Mail, Dungeon Finder, Group Finder, LFG, Pet Battle, and Guild Invites
+## Author: CapitainFoxy
+## Version: 1.3
+
+Core/Core.lua
+Core/AuctionHouse.lua
+Core/Trade.lua
+Core/GuildBank.lua
+Core/Mail.lua
+Core/DungeonFinder.lua
+Core/GroupFinder.lua
+Core/PetBattle.lua
+Core/GuildInvite.lua
+Utils/Notifications.lua

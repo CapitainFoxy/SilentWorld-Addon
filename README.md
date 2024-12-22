@@ -2,6 +2,9 @@
 
 SilentWorld is a World of Warcraft addon designed to block many interactions within the game. It disables various in-game features like Auction House, Trade, Guild Bank, Mail, Dungeon Finder, Group Finder, LFG, Pet Battles, and Guild Invites. This addon is perfect for players who want to focus on solo content or challenge themselves with friends without the distractions of in-game transactions or group searching.
 
+## CurseForge
+
+This addon is now available on [CurseForge](https://legacy.curseforge.com/wow/addons/silentworld)
 
 ## Installation
 
